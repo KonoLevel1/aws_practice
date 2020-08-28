@@ -1,0 +1,2 @@
+# elastic_container_service
+Dockerコンテナを簡単に実行、停止、管理できるようにするコンテナ管理サービス。
