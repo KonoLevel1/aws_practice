@@ -17,4 +17,10 @@
     | sort @timestamp desc
     | limit 20
     ```
-
+    * クエリの例（ログレベルERRORのログを20件表示）
+    ```
+    fields @timestamp, @message
+    | filter @message like /(?i)(error)/
+    | sort @timestamp desc
+    | limit 20
+    ```
