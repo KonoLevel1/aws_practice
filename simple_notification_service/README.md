@@ -18,3 +18,8 @@
 ### トピックの作成
 トピックは、メッセージの送信先システムを定義する通信チャネルの論理的なグループ。<br>
 AmazonSNSにメッセージを送信すると、トピックで定義されているチャネルに配信される。
+## SNSを使用したリポジトリ
+* [Grails_AWS_SNS](https://github.com/KonoLevel1/Grails_AWS_SNS)
+* [Grails_AWS_SNS2](https://github.com/KonoLevel1/Grails_AWS_SNS2)
+* [Grails_AWS_SNS3](https://github.com/KonoLevel1/Grails_AWS_SNS3)
+* [Grails_AWS_SNS4](https://github.com/KonoLevel1/Grails_AWS_SNS4)
