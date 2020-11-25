@@ -1,0 +1,2 @@
+# Key Management Service
+AWSやその外部で容易にキーを作成し暗号化を管理するサービス
