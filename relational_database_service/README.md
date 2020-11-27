@@ -1,0 +1,2 @@
+# Relational Database Service
+MySQL、PostgreSQL、Oracleなどをサポートしているエンタープライズクラスのデータベース
